@@ -8,7 +8,7 @@ setup(
   author = 'Hendrik Jon Schmidt',                   
   author_email = 'hendrikjonschmidt@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/hndrjs/pallet_loading_env',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/hndrkjs//archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/hndrkjs/pallet_loading_env/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['Weight Constraints', 'Stability-Check', '3D-BPP', 'Deep Reinforcement Learning'],   
   install_requires=[            # I get to this in a second
           'numpy',
